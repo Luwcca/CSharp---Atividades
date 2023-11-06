@@ -1,0 +1,14 @@
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\bin\Debug\net7.0\01-Bb.exe
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\bin\Debug\net7.0\01-Bb.deps.json
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\bin\Debug\net7.0\01-Bb.runtimeconfig.json
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\bin\Debug\net7.0\01-Bb.dll
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\bin\Debug\net7.0\01-Bb.pdb
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\01-Bb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\01-Bb.AssemblyInfoInputs.cache
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\01-Bb.AssemblyInfo.cs
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\01-Bb.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\01-Bb.dll
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\refint\01-Bb.dll
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\01-Bb.pdb
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\01-Bb.genruntimeconfig.cache
+C:\Users\Lucca\source\repos\ByteBank\01-Bb\obj\Debug\net7.0\ref\01-Bb.dll

@@ -1,0 +1,14 @@
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\bin\Debug\net6.0\Projeto_2_Variaveis.exe
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\bin\Debug\net6.0\Projeto_2_Variaveis.deps.json
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\bin\Debug\net6.0\Projeto_2_Variaveis.runtimeconfig.json
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\bin\Debug\net6.0\Projeto_2_Variaveis.dll
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\bin\Debug\net6.0\Projeto_2_Variaveis.pdb
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\Projeto_2_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\Projeto_2_Variaveis.AssemblyInfoInputs.cache
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\Projeto_2_Variaveis.AssemblyInfo.cs
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\Projeto_2_Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\Projeto_2_Variaveis.dll
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\refint\Projeto_2_Variaveis.dll
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\Projeto_2_Variaveis.pdb
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\Projeto_2_Variaveis.genruntimeconfig.cache
+C:\Users\Lucca\source\repos\AprendendoCSharp\Projeto_2_Variaveis\obj\Debug\net6.0\ref\Projeto_2_Variaveis.dll

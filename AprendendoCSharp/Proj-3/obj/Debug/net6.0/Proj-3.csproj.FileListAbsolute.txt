@@ -1,0 +1,14 @@
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\bin\Debug\net6.0\Proj-3.exe
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\bin\Debug\net6.0\Proj-3.deps.json
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\bin\Debug\net6.0\Proj-3.runtimeconfig.json
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\bin\Debug\net6.0\Proj-3.dll
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\bin\Debug\net6.0\Proj-3.pdb
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\Proj-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\Proj-3.AssemblyInfoInputs.cache
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\Proj-3.AssemblyInfo.cs
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\Proj-3.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\Proj-3.dll
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\refint\Proj-3.dll
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\Proj-3.pdb
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\Proj-3.genruntimeconfig.cache
+C:\Users\Lucca\source\repos\AprendendoCSharp\Proj-3\obj\Debug\net6.0\ref\Proj-3.dll
