@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios
 {
-    public class Funcionario
+    // tornar a classe abstrata, impede de criar uma instancia Funcionaria, porém permite criar qualquer classe baseada nela
+    public abstract class Funcionario
     {
 
         public static int TotalDeFuncionarios { get; private set; }
@@ -14,24 +15,28 @@ namespace ByteBank.Funcionarios
       
         public string Nome { get; set; }
         public string CPF { get;private set;}
-        public double Salario { get; set; }
+
+        //protrected é um tipo de private visivel às classes herdadas
+        public double Salario { get; protected set; }
 
 
 
-        public Funcionario(string cpf)
+        public Funcionario(double salario,string cpf)
         {
             CPF = cpf;
-
+            Salario = salario;
             TotalDeFuncionarios++;
         }
 
+        //A parte abstract obriga a existir e sobrescrever o metodo 
+        // metodos abstratos só existem as classes abstratas
+        public abstract void AumentarSalario();
 
 
-        // mostra que o metodo pode ser sobrescrito por classes herdadas
-        public virtual double GetBonificacao()
-        {
-            return Salario * 0.1;
-        }
+
+        // virtual mostra que o metodo pode ser sobrescrito por classes herdadas
+        public abstract double GetBonificacao();
+
 
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using ByteBank.Funcionarios;
+using ByteBank.Sistemas;
 
 namespace ByteBank
 {
@@ -7,29 +8,46 @@ namespace ByteBank
     {
         private static void Main(string[] args)
         {
-            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+            SistemaInterno sistemaInterno = new SistemaInterno();
+            
+            CalcularBonificacao();
 
+            FuncionarioAutenticavel camila = new GerenteDeConta("326.985.628-89");
+            camila.Nome = "Camila";
+            camila.Senha = "abc";
 
-            Funcionario carlos = new Funcionario("546.879.157-20");
-            carlos.Nome = "Carlos";
-            carlos.Salario = 2000;
+            sistemaInterno.Logar(camila, "senha");
+            sistemaInterno.Logar(camila, "abc");
 
-            Diretor roberta = new Diretor("454.658.148-3");
-            roberta.Nome = "Roberta";
-            roberta.Salario = 5000;
-
-            gerenciador.Registrar(carlos);
-            gerenciador.Registrar(roberta);
-
-
-            Console.WriteLine(carlos.Nome);
-            Console.WriteLine(roberta.Nome);
-
-
-
-            Console.WriteLine("Total de bonificações: " + gerenciador.GetTotalBonificacao());
             Console.ReadLine();
 
+
+        }
+
+
+        // precisa estar em static, pois o static void main, não pode chamar outros metodos sem ser estaticos
+        public static void CalcularBonificacao()
+        {
+            GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
+
+            Funcionario pedro = new Designer("833.222.048-39");
+            pedro.Nome = "Pedro";
+
+            Funcionario roberta = new Diretor("159.753.398-04");
+            roberta.Nome = "Roberta";
+
+            Funcionario igor = new Auxiliar("981.198.778-53");
+            igor.Nome = "Igor";
+
+            Funcionario camila = new GerenteDeConta("326.985.628-89");
+            camila.Nome = "Camila";
+
+            gerenciadorBonificacao.Registrar(pedro);
+            gerenciadorBonificacao.Registrar(roberta);
+            gerenciadorBonificacao.Registrar(igor);
+            gerenciadorBonificacao.Registrar(camila);
+
+            Console.WriteLine("Total de bonificações do mês " + gerenciadorBonificacao.GetTotalBonificacao());
 
         }
     }
