@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucca\\source\\repos\\ByteBank\\01-Bb\\01-Bb.csproj": {}
+    "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\ByteBank\\01-Bb\\01-Bb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucca\\source\\repos\\ByteBank\\01-Bb\\01-Bb.csproj": {
+    "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\ByteBank\\01-Bb\\01-Bb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucca\\source\\repos\\ByteBank\\01-Bb\\01-Bb.csproj",
+        "projectUniqueName": "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\ByteBank\\01-Bb\\01-Bb.csproj",
         "projectName": "01-Bb",
-        "projectPath": "C:\\Users\\Lucca\\source\\repos\\ByteBank\\01-Bb\\01-Bb.csproj",
+        "projectPath": "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\ByteBank\\01-Bb\\01-Bb.csproj",
         "packagesPath": "C:\\Users\\Lucca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucca\\source\\repos\\ByteBank\\01-Bb\\obj\\",
+        "outputPath": "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\ByteBank\\01-Bb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucca\\AppData\\Roaming\\NuGet\\NuGet.Config",

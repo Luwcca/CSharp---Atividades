@@ -45,6 +45,10 @@ namespace ByteBank3._0
                 Console.WriteLine(e.InnerException.Message);
                 Console.WriteLine(e.InnerException.StackTrace);
             }
+            finally //Finally é realizado depois do try, mesmo que cath seja executado
+            {
+                Console.Write("Fim do erro");
+            }
 
             //Metodo();
 

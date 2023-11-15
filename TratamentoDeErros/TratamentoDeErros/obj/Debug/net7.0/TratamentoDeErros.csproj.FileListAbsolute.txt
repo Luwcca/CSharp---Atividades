@@ -1,0 +1,14 @@
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.exe
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.deps.json
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.runtimeconfig.json
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\bin\Debug\net7.0\TratamentoDeErros.pdb
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.AssemblyInfoInputs.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.AssemblyInfo.cs
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\refint\TratamentoDeErros.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.pdb
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\TratamentoDeErros.genruntimeconfig.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\TratamentoDeErros\TratamentoDeErros\obj\Debug\net7.0\ref\TratamentoDeErros.dll
