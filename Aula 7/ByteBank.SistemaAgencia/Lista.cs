@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.SistemaAgencia
 {
+    // O <T> é o argumento de lista genérica
     public class Lista<T>
     {
         private T[] _itens;
@@ -107,7 +108,7 @@ namespace ByteBank.SistemaAgencia
 
 
             _proximaPosicao--;
-            _itens[_proximaPosicao] = null;
+            //_itens[_proximaPosicao] = null;
 
         }
 
