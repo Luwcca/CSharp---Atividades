@@ -1,0 +1,7 @@
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aula 9 - IO com streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aula 9 - IO com streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aula 9 - IO com streams\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aula 9 - IO com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aula 9 - IO com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aula 9 - IO com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aula 9 - IO com streams\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
