@@ -10,11 +10,11 @@ using (HttpClient client = new HttpClient())
         //adicionado como Async pois não sabemos o tamanho da requisição
         // o await é utilizado para aguardar o comando async ser concluido
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
-        Console.WriteLine(resposta);
 
 
-        //Desrialize converte o Json em um objeto manipulavel
-        var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta);
+        //Deserialize converte o Json em um objeto manipulavel
+        //! usado pois musica não pode ser nula
+        var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
 
         musicas[0].ExibirDetalhesDaMusica();
 
