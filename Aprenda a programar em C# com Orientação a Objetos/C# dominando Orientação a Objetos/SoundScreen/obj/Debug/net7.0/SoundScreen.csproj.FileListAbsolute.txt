@@ -1,0 +1,14 @@
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\bin\Debug\net7.0\SoundScreen.exe
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\bin\Debug\net7.0\SoundScreen.deps.json
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\bin\Debug\net7.0\SoundScreen.runtimeconfig.json
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\bin\Debug\net7.0\SoundScreen.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\bin\Debug\net7.0\SoundScreen.pdb
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\SoundScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\SoundScreen.AssemblyInfoInputs.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\SoundScreen.AssemblyInfo.cs
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\SoundScreen.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\SoundScreen.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\refint\SoundScreen.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\SoundScreen.pdb
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\SoundScreen.genruntimeconfig.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\Aprenda a programar em C# com Orientação a Objetos\C# dominando Orientação a Objetos\SoundScreen\obj\Debug\net7.0\ref\SoundScreen.dll

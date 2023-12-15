@@ -1,0 +1,14 @@
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\PrimeiraAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\PrimeiraAplicacao.AssemblyInfoInputs.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\PrimeiraAplicacao.AssemblyInfo.cs
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\bin\Debug\net7.0\PrimeiraAplicacao.exe
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\bin\Debug\net7.0\PrimeiraAplicacao.deps.json
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\bin\Debug\net7.0\PrimeiraAplicacao.runtimeconfig.json
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\bin\Debug\net7.0\PrimeiraAplicacao.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\bin\Debug\net7.0\PrimeiraAplicacao.pdb
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\PrimeiraAplicacao.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\refint\PrimeiraAplicacao.dll
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\PrimeiraAplicacao.pdb
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\PrimeiraAplicacao.genruntimeconfig.cache
+C:\Users\Lucca\source\repos\CSharp---Atividades\PrimeiraAplicacao\obj\Debug\net7.0\ref\PrimeiraAplicacao.dll
