@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lgioppo\\source\\repos\\CSharp---Atividades\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\Aprenda a programar em C# com Orientação a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lgioppo\\source\\repos\\CSharp---Atividades\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\Aprenda a programar em C# com Orientação a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lgioppo\\source\\repos\\CSharp---Atividades\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\Aprenda a programar em C# com Orientação a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\lgioppo\\source\\repos\\CSharp---Atividades\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\lgioppo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lgioppo\\source\\repos\\CSharp---Atividades\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\Aprenda a programar em C# com Orientação a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Lucca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucca\\source\\repos\\CSharp---Atividades\\Aprenda a programar em C# com Orientação a Objetos\\C# consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lgioppo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lucca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
