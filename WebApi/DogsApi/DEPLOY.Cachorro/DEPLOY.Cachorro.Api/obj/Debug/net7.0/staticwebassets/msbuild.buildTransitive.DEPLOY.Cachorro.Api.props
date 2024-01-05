@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DEPLOY.Cachorro.Api.props" />
+</Project>

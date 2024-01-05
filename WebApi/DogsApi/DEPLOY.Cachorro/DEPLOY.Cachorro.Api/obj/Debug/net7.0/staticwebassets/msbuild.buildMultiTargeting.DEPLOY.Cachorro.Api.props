@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DEPLOY.Cachorro.Api.props" />
+</Project>

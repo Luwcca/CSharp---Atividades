@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L3l1werOdjJ+ZQ/ToutkzknBnarLaSMplJuJhPqySQ8=",
+  "Source": "DEPLOY.Cachorro.Api",
+  "BasePath": "_content/DEPLOY.Cachorro.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
